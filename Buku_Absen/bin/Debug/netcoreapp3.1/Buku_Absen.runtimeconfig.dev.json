@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wanda.primayansa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wanda.primayansa\\.nuget\\packages"
+    ]
+  }
+}
